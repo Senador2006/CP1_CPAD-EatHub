@@ -1,8 +1,13 @@
 Integrantes do Grupo:
+
 Thiago Sobral de Alvarenga - RM: 562695
+
 Pedro Miranda Campos Riato - RM: 562117
+
 Israel Karacsony de Camargo Nunes - RM: 563435
+
 Thiago Ono Sakai - RM: 563448
+
 Diego Antonio Silva Mendes - RM: 565509
 
 Sobre o Projeto:
@@ -17,5 +22,6 @@ Nosso projeto foi estruturando de maneira que cada integrante seria responsável
 - Pedido
 - Análise do pedido
 - Configurações
+
 Os hooks utilizados foram useState, que permite que os botões alterem o estado da interface, e useRoute, que controla movimento entre as telas.
 A navegação foi organizada do seguinte modo:
