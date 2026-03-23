@@ -28,12 +28,12 @@ Os hooks utilizados foram useState, que permite que os botões alterem o estado 
 A navegação foi organizada do seguinte modo:
 
 Pré-requisitos: 
--Node.js
--ExpoGo
+- Node.js
+- ExpoGo
 
 Como clonar o projeto:
 
--Copie a URL: clique no botão verde "<> Code" e copie a URL (HTTPS ou SSH).
--Abra o terminal: Abra o Git Bash ou terminal de sua preferência.
--Navegue até a pasta: Use cd para ir para onde deseja salvar o projeto (ex: cd documentos/projetos).
--Execute o clone: git clone https://github.com/Senador2006/CP1_CPAD-EatHub.git
+- Copie a URL: clique no botão verde "<> Code" e copie a URL (HTTPS ou SSH).
+- Abra o terminal: Abra o Git Bash ou terminal de sua preferência.
+- Navegue até a pasta: Use cd para ir para onde deseja salvar o projeto (ex: cd documentos/projetos).
+- Execute o clone: git clone https://github.com/Senador2006/CP1_CPAD-EatHub.git
